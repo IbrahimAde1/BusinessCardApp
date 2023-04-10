@@ -28,7 +28,7 @@ class MyCv extends StatelessWidget {
                   fontSize: 25, color: Colors.white, fontFamily: 'Pacifico'),
             ),
             Text(
-              'Civil Engeneer',
+              'flutter dev',
               style: TextStyle(
                   fontSize: 40, color: Colors.white, fontFamily: 'Pacifico'),
             ),
