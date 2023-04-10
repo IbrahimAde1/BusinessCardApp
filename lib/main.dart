@@ -45,7 +45,7 @@ class MyCv extends StatelessWidget {
                   Icons.phone,
                   color: Colors.green,
                 ),
-                title: Text('(+20)1097106970 ',
+                title: Text('(+20)123456789 ',
                     // textAlign: TextAlign.center,
                     style: TextStyle(
                       fontSize: 22,
